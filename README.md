@@ -8,7 +8,7 @@ Camera App merupakan aplikasi berbentuk Sosial Media untuk melihat daftar-daftar
 Daftar package expo yang digunakan dalam aplikasi ini adalah "expo-camera": "~12.3.0", "expo-image-picker": "~13.3.1", "expo-sharing": "~10.3.0", "expo-media-library": "~14.2.0"
 
 ## Link Aplikasi dan laporan
-https://drive.google.com/drive/folders/1Y3tm1igpVr3RdRpYAZT625yv4s1_qv5?usp=sharing
+https://drive.google.com/drive/folders/1-Y3tm1igpVr3RdRpYAZT625yv4s1_qv5
 
 Untuk tahap menginstall aplikasi dalam taham pengembangan adalah:
 1.	Pertama user menginstall aplikasi expo di playstore/app store
